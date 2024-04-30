@@ -1,4 +1,4 @@
-# A Hyperspectral Reflectance Library of Plastic Debris in Optically Complex Freshwater Aquatic Systems
+# A Hyperspectral Reflectance Database of Plastic Debris for River Ecosystems
 
 
 This is a unique hyperspectral reflectance dataset of weathered and virgin floating plastic debris with different sizes and types under controlled laboratory conditions. 
