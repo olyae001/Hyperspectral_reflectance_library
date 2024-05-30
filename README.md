@@ -8,7 +8,7 @@ This dataset serves as a valuable resource for analyzing the spectral characteri
  
 ![Logo](./docs/Sample.png)
 
-To download the NETCDF files go to [https://doi.org/10.5281/zenodo.5151941.](https://zenodo.org/uploads/10723548)
+To download the NETCDF files go to [https://doi.org/10.5281/zenodo.5151941.](https://zenodo.org/records/10723548)
 
 ### Dataset Structure
 
