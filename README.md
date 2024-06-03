@@ -35,3 +35,5 @@ Python and MATLAB code have been provided for conducting general statistical ana
 - matplotlib
 - tabulate==0.9.0
 - pyarrow==15.0.0
+
+Acknowledgment: The funding support from the Legislative-Citizen Commission on Minnesota Resources (LCCMR, M.L.2021 E812RSM) is greatly acknowledged
