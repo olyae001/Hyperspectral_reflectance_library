@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/olyae001/Hyperspectral_reflectance_library/blob/master/Python_Code/Statistical_analysis_Xgboost_new.ipynb)
+
 # A Hyperspectral Reflectance Database of Plastic Debris for River Ecosystems
 ![Logo](./docs/Figure1.jpg) 
 
